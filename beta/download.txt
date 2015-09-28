@@ -1,0 +1,2 @@
+ftp://ftp2.pacificbiosciences.com/smrtanalysis_3.0.0.160815.run
+ftp://ftp2.pacificbiosciences.com/smrtanalysis_3.0.0.160815.run.md5
