@@ -1,5 +1,4 @@
-ftp://ftp2.pacificbiosciences.com/smrtanalysis_3.0.0.160815.run
-ftp://ftp2.pacificbiosciences.com/smrtanalysis_3.0.0.160815.run.md5
+ftp://ftp2.pacificbiosciences.com/smrtsuite-fromsrc_3.0.0.164219_linux_x86-64_libc-2.5_ubuntu-1404.run
 https://s3.amazonaws.com/files.pacb.com/datasets/secondary-analysis/e-coli-k12-P6C4-20KSS/p6c4_ecoliK12_0001.tar.gz
 https://s3.amazonaws.com/files.pacb.com/datasets/secondary-analysis/e-coli-k12-P6C4-20KSS/polished_assembly.fasta.gz
 
